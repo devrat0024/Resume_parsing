@@ -1,0 +1,46 @@
+Rosie Miller  
+
+Pittsburgh, PA 15201  
+(555) 555-5555  
+example@example.com  
+
+PROFESSIONAL SUMMARY  
+Highly motivated student with a strong foundation in science and mathematics, aiming to excel in the field of programming and software development. Proficient in coding, problem-solving, and algorithmic thinking, with hands-on experience in creating data-driven applications. Passionate about leveraging technical expertise to develop innovative solutions and contribute to cutting-edge projects.  
+
+EDUCATION  
+Park Point University – Pittsburgh, PA  
+Bachelor of Science in Mathematics and Computer Science  
+Anticipated Graduation: May 2025  
+- Relevant coursework: Data Structures, Algorithms, Machine Learning, Software Development, and Advanced Mathematics  
+- Achievements: Dean’s List for Academic Excellence, 2023-2024  
+
+PROJECTS  
+- **Weather Forecasting Application**: Built a Python-based application that uses APIs to provide real-time weather updates.  
+- **Student Performance Analysis Tool**: Developed a data visualization dashboard in Python to analyze academic performance trends.  
+- **Chatbot Development**: Created a chatbot using NLP techniques to assist users with general queries.  
+
+INTERNSHIP EXPERIENCE  
+CodeCraft Solutions – Pittsburgh, PA  
+Software Development Intern | Summer 2024  
+- Contributed to building and testing RESTful APIs for a client management system.  
+- Worked in an Agile environment and collaborated with cross-functional teams to deliver features.  
+- Improved application performance by optimizing SQL queries.  
+
+SKILLS  
+- Programming: Python, Java, C++  
+- Data Analysis: Pandas, NumPy, Matplotlib  
+- Machine Learning: Scikit-learn, TensorFlow  
+- Web Development: HTML, CSS, JavaScript  
+- Tools: Git, JIRA, Visual Studio Code  
+
+EXTRACURRICULAR ACTIVITIES  
+- Member, Coding Club: Organized weekly hackathons and coding challenges.  
+- Volunteer Tutor: Helped fellow students improve coding and mathematical skills.  
+
+CERTIFICATIONS  
+- Python for Data Science and AI – IBM  
+- Google IT Automation with Python – Google  
+
+HOBBIES  
+- Solving mathematical puzzles and participating in competitive coding contests.  
+- Exploring new programming languages and technologies.  
